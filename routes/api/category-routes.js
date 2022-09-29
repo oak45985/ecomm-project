@@ -81,8 +81,8 @@ router.post('/', (req, res) => {
 router.put('/:id', (req, res) => {
   // update a category by its `id` value
   Category.update(
-    //UPDATE HERE 9.28
-    req.body, 
+    {
+      category_name: req.body.category_name }, 
     { 
     where: {
       id: req.params.id
