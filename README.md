@@ -34,7 +34,7 @@ SO THAT my company can compete with other e-commerce companies<br><br>
 ## <a name="use">Usage</a>
 <p> Use so that you may get, pull, post and delete items from the database. NOTE: There are a few "post" actions that claim they do not work but, upon looking at the database, you will find them within.</p><br>
 
-## <a name="link">Video Link</a>
+## <a name="link">Link</a>
 <p>Please view the video linked <a href="https://drive.google.com/file/d/1jCx3CVb7rQFrX5KHuhmcaM5yeWUmGxl7/view?usp=sharing">here</a>.<p>
 
 ## <a name="que">Questions/Contact</a>
