@@ -6,7 +6,7 @@ LICENSE DATA
 ### [Description](#des)
 ### [Installation](#ins)
 ### [Usage](#use)
-### [Link] (#link)
+### [Link](#link)
 ### [Questions/Contact](#que)<br><br>
 
 ## <a name="des">Description</a>
